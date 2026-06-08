@@ -121,40 +121,6 @@ GitHub will automatically deploy the website.
 
 ---
 
-# 📸 Screenshots
-
-## 🖥️ Homepage
-
-```md
-![Homepage](screenshots/homepage.png)
-```
-
----
-
-## 📁 GitHub Repository
-
-```md
-![Repository](screenshots/github-repo.png)
-```
-
----
-
-## ⚙️ GitHub Pages Settings
-
-```md
-![GitHub Pages](screenshots/github-pages-settings.png)
-```
-
----
-
-## 🌍 Live Website
-
-```md
-![Live Website](screenshots/live-website.png)
-```
-
----
-
 # 📖 Learning Outcome
 
 After completing this project, I learned:
